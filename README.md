@@ -27,4 +27,7 @@ The Canteen-Website-Frontend project aims to create a modern and responsive inte
    Open the index.html file in your preferred web browser to view the canteen website.
 
 ## Screenshots
-   
+   ![1](https://github.com/user-attachments/assets/f2ec778b-0c07-4078-99b5-dcc9d1900060)
+   ![2](https://github.com/user-attachments/assets/468f76c2-6801-4b95-bf67-663c8b0a426b)
+   ![3](https://github.com/user-attachments/assets/0dc1abae-18a8-446c-bab8-58449cc50a96)
+   ![4](https://github.com/user-attachments/assets/dfe0d7e0-0bb1-4e63-b6e2-9fb1280e98d5)
