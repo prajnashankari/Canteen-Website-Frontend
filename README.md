@@ -12,7 +12,7 @@ The Canteen-Website-Frontend project aims to create a modern and responsive inte
 - CSS
 - JavaScript
 
-- ## Installation
+## Installation
 
 1. Clone the repository:
    ```bash
